@@ -8,19 +8,11 @@
 
 $a = 10;
 $b = 15;
+$c = 12; // módosítjuk a c változóval a projektet
 
-print $a + $b;
+print $a + $b + $c
 
 
-
-
-// Kivonás
-//------------------
-
-$x = 35;
-$y = 19;
-
-print "<br /><br />" . $x - $y;
 
 
 
