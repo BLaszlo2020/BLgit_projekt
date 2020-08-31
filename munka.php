@@ -6,8 +6,8 @@
 // Összeadás
 //------------------
 
-$a = 10;
-$b = 15;
+$a = 105;
+$b = 150;
 $c = 12; // módosítjuk a c változóval a projektet
 
 print $a + $b + $c
@@ -21,6 +21,7 @@ $y = 19;
 
 print "<br /><br />" . #x - $y
 
+print "Konfliktus lesz---";
 
 
 ?>
