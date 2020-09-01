@@ -1,31 +1,32 @@
 <?php
 
-// Matematikai mûveletek
+// Matematikai mÅ±veletek
 //===============================================
 
-// Összeadás
+// Ã–sszeadÃ¡s
 //------------------
 
 
 $a = 105;
 $b = 17;
-$c = 12; // módosítjuk a c változóval a projektet
-$d = 34;
+$c = 120; // mÃ³dosÃ­tjuk a c vÃ¡ltozÃ³val a projektet
+$d = 36;
 
 print $a + $b + $c + $d;
 
+// a GitHub-on szerkesztettem
 
-//kivonás
+//kivonÃ¡s
 //-----------------
 
 $x = 35;
 $y = 19;
 
 
-print "<br /><br />" . #x - $y
+print "<br /><br />" . #x - $y;
 
 print "Konfliktus lesz---";
 
 
-// itt a vége
+// itt a vÃ©ge
 ?>
