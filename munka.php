@@ -7,7 +7,7 @@
 //------------------
 
 
-$a = 105;
+$a = 10;
 $b = 17;
 $c = 120; // módosítjuk a c változóval a projektet
 $d = 36;
